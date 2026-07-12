@@ -1,6 +1,5 @@
-# [The Presentation Framework That Thinks Like You Do](https://github.com/HugoBlox/hugo-theme-markdown-slides)
+# [落尘的GitHub](https://github.com/HugoBlox/hugo-theme-markdown-slides)
 
-[![Screenshot](.github/preview.png)](https://hugoblox.com/templates/markdown-slides?utm_source=github&utm_medium=readme&utm_content=preview)
 
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating slide content -->
 https://github.com/user-attachments/assets/5a93788a-65d7-4a56-8355-4a2098a5f89b
