@@ -4,7 +4,7 @@
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating slide content -->
 https://github.com/user-attachments/assets/5a93788a-65d7-4a56-8355-4a2098a5f89b
 
-<h1 align="center">Write Slides In Markdown. Present Like A Pro.</h1>
+<h1 align="center">写一个用于测试的赞为辐好.</h1>
 
 <p align="center">
   <strong>Stop wrestling with PowerPoint.</strong><br/>
